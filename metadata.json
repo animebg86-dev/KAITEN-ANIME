@@ -1,0 +1,6 @@
+{
+  "name": "Kaiten Anime",
+  "description": "Plateforme et catalogue d'animes avec moteur de recommandation IA, filtres avancés par thèmes et plateformes de streaming légales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
